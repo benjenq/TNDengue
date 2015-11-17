@@ -1,0 +1,9 @@
+/* 
+   InfoPlist.strings
+   TNDengue
+
+   Created by Administrator on 2010/10/19.
+   Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+"CFBundleDisplayName" = "台南登革熱";
+"NSLocationWhenInUseUsageDescription" = "請點擊「允許」開啟定位服務";

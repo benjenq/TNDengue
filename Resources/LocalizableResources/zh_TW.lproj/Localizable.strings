@@ -1,0 +1,16 @@
+/* 
+ Localizable.strings
+ TNDengue
+ 
+ Created by Administrator on 11/10/28.
+ Copyright (c) 2011年 __MyCompanyName__. All rights reserved.
+ NSLocalizedString(@"A", @"B");
+ */
+"DBFILENAME" = "TNDengue.db";
+
+"Receiving TNDengue Data ..." = "取得資料中..." ;
+"TNDengueViewControllerTitle" = "台南登革熱" ;
+"SearchBarPlaceHolder" = "關鍵字,用空白區隔,如:中西區 中山路";
+
+"Receiving Record(s) ..." = "取得 %@ 筆記錄" ;
+

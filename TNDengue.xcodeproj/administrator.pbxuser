@@ -1,0 +1,194 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TNDengueAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 286}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 464}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TNDengueAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 1196}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{0, 390}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TNDengue */ = {
+		activeExec = 0;
+		executables = (
+			C3A9989A1BA860DC00A9AE4C /* TNDengue */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C3A9989A1BA860DC00A9AE4C /* TNDengue */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TNDengue */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TNDengue */,
+		);
+		codeSenseManager = C3A998A61BA860E600A9AE4C /* Code sense */;
+		executables = (
+			C3A9989A1BA860DC00A9AE4C /* TNDengue */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 464019676;
+			PBXWorkspaceStateSaveDate = 464019676;
+		};
+		perUserProjectItems = {
+			C3A998CC1BA861D700A9AE4C /* PBXTextBookmark */ = C3A998CC1BA861D700A9AE4C /* PBXTextBookmark */;
+			C3A998CD1BA861D700A9AE4C /* PlistBookmark */ = C3A998CD1BA861D700A9AE4C /* PlistBookmark */;
+			C3A998CE1BA861D700A9AE4C /* PBXTextBookmark */ = C3A998CE1BA861D700A9AE4C /* PBXTextBookmark */;
+			C3A998CF1BA861D700A9AE4C /* PBXTextBookmark */ = C3A998CF1BA861D700A9AE4C /* PBXTextBookmark */;
+			C3A998D71BA861E500A9AE4C /* PBXTextBookmark */ = C3A998D71BA861E500A9AE4C /* PBXTextBookmark */;
+		};
+		sourceControlManager = C3A998A51BA860E600A9AE4C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C3A9989A1BA860DC00A9AE4C /* TNDengue */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TNDengue;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C3A998A51BA860E600A9AE4C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C3A998A61BA860E600A9AE4C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C3A998A71BA8612900A9AE4C /* TNDengueViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 226}}";
+			sepNavSelRange = "{47, 0}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	C3A998CC1BA861D700A9AE4C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C3A998A71BA8612900A9AE4C /* TNDengueViewController.h */;
+		name = "TNDengueViewController.h: 4";
+		rLen = 0;
+		rLoc = 47;
+		rType = 0;
+		vrLen = 242;
+		vrLoc = 0;
+	};
+	C3A998CD1BA861D700A9AE4C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TNDengue-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"NSMainNibFile~ipad",
+		);
+		name = "/Users/administrator/Documents/TNDengue/TNDengue-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C3A998CE1BA861D700A9AE4C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TNDengueAppDelegate.h */;
+		name = "TNDengueAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 464;
+		vrLoc = 0;
+	};
+	C3A998CF1BA861D700A9AE4C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TNDengueAppDelegate.m */;
+		name = "TNDengueAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 307;
+		vrLoc = 0;
+	};
+	C3A998D71BA861E500A9AE4C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TNDengueAppDelegate.m */;
+		name = "TNDengueAppDelegate.m: 9";
+		rLen = 0;
+		rLoc = 174;
+		rType = 0;
+		vrLen = 291;
+		vrLoc = 0;
+	};
+}
